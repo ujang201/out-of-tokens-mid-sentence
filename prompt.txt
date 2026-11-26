@@ -1,0 +1,1 @@
+Write one line: the funniest error message an AI agent shows when it runs out of tokens mid-sentence. A single line of at most 140 characters, funny on its own, in the flat tone of a real error message that turns into the joke.
